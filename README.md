@@ -80,7 +80,7 @@
 <a href="https://twitter.com/s4chin_verma" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/sachin verma" target="_blank">
+<a href="https://www.linkedin.com/in/s4chin-verma/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -96,11 +96,7 @@
 
 <br/>  
 
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=315xmcwic2xx7v2u2qotucrbjvpy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+ 
 
 <br/>  
 
