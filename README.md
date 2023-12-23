@@ -12,6 +12,7 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/s4chin_verma)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/s4chin-verma?ext=heatmap)
+[![Sachin's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sachin_verma)](https://auth.geeksforgeeks.org/user/sachin_verma)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
