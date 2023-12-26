@@ -37,7 +37,7 @@
 [![Sachin's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sachin_verma)](https://auth.geeksforgeeks.org/user/sachin_verma)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=s4chin-verma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=s4chin-verma&theme=dark&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=s4chin-verma&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=s4chin-verma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
