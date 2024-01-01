@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 🔭 **I’m currently working on:**  <br>Real Time Chat Room Application<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>React.js and Javascript<br><br>💬 **Ask me about:**  <br>JavaScript, React, Node.js, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I use ChatGpt over Google
    
 
