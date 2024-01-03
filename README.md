@@ -36,16 +36,13 @@
 [![Sachin's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sachin_verma)](https://auth.geeksforgeeks.org/user/sachin_verma)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=s4chin-verma&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=s4chin-verma&theme=radical&date_format=j%20M%5B%20Y%5D)](https://github.com/s4chin-verma)<br/> -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=s4chin-verma&theme=terafox&hide_border=true)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=s4chin-verma&theme=radical&date_format=j%20M%5B%20Y%5D)](https://github.com/s4chin-verma)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=s4chin-verma&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=s4chin-verma&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-<!-- [![](https://visitcount.itsvg.in/api?id=s4chin-verma&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
 
 [![](https://komarev.com/ghpvc/?username=s4chin-verma&&style=flat-square)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Years Badge](https://badges.pufler.dev/years/s4chin-verma)](https://badges.pufler.dev)
