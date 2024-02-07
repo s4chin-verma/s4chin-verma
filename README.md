@@ -4,7 +4,7 @@
 
 🔭 **I’m currently working on:**
 <br>
-Real Time Chat Room Application<br><br>👯 **I’m looking to collaborate on:** <br>Fullstack projects<br><br>🌱 **I’m currently learning:** <br>Redux and Typescript<br><br>💬 **Ask me about:** <br>JavaScript, React, Node.js, and any general software development questions.<br><br>⚡ **Fun fact:** <br>I use ChatGpt over Google
+Real-Time Chat Room Application<br><br>👯 **I’m looking to collaborate on** <br>Fullstack projects<br><br>🌱 **I’m currently learning:** <br>Redux and Typescript<br><br>💬 **Ask me about** <br>JavaScript, React, Node.js, and any general software development questions.<br><br>⚡ **Fun fact:** <br>I use ChatGpt over Google
 
 ## 🌐 Socials
 
@@ -23,13 +23,13 @@ Real Time Chat Room Application<br><br>👯 **I’m looking to collaborate on:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
